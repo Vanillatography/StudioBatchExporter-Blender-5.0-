@@ -8,8 +8,8 @@ Studio Batch Exporter is a production-ready Blender addon designed to streamline
 
 - **Batch Export**: Export multiple assets in one operation.  
 - **Flexible Export Options**: Supports common formats used in studio pipelines.  
-- **Custom Naming Conventions**: Automatically applies standardized naming for assets.  
-- **Production-Ready**: Built to meet the needs of professional environment and asset pipelines.  
+- **Custom Naming Conventions**: Automatically applies standardized naming for assets by letting the user override the combined objects name on export.  
+- **Production-Ready**: Built to meet the needs of professional environment and asset pipelines from AAA experienced artists.  
 - **User-Friendly Interface**: Intuitive UI for artists with minimal setup required.
 
 ## Installation
